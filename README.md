@@ -1,1 +1,1 @@
-# -Electricity-Consumption-Data-Analysis-with-NumyPy
+# electricity-consumption-data-analysis-with-numyPy
